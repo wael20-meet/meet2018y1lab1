@@ -1,0 +1,6 @@
+english= ("hello world")
+italian=("ciao mondo")
+esperanto=("saluton mondo")
+xhosa=("molo lizwe")
+zulu=("sawubona mhlaba")
+scots gaelic=("halo a shaoghail")
